@@ -5,7 +5,8 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: We promote the use and development of open source software
+description: Open Source Enthusiasts
+full_description: We are a bunch of people who promote the use and development of Open Source software
 
 # Author details for the jekyll-seo-tag gem
 author:
@@ -16,7 +17,7 @@ author:
 social:
   name: Kharagpur Open Source Society
   links:
-    - https://github.com/CloudCannon/urban-jekyll-template
+    - https://github.com/kossiitkgp
 
 collections:
   staff_members:
