@@ -1,30 +1,28 @@
-title: Urban Template
-url: "https://teal-worm.cloudvent.net"
+title: Kharagpur Open Source Society
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Default description in social shares for the jekyll-seo-tag gem
-description: Jekyll template with example content for a web agency.
+description: We promote the use and development of open source software
 
 # Author details for the jekyll-seo-tag gem
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Kharagpur Open Source Society
+  email: kossiitkgp@gmail.com
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Urban Template
+  name: Kharagpur Open Source Society
   links:
     - https://github.com/CloudCannon/urban-jekyll-template
 
 collections:
   staff_members:
-    output: false
-  clients:
     output: true
+  clients:
+    output: false
 
 paginate: 10
 paginate_path: "/blog/:num/"
@@ -67,11 +65,4 @@ defaults:
 
 social_icons:
   - Facebook
-  - Google Plus
-  - Instagram
-  - LinkedIn
-  - Pinterest
-  - Tumblr
-  - Twitter
   - YouTube
-  - RSS
