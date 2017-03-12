@@ -7,6 +7,7 @@ script: ./travis-ci.sh
 branches:
     only:
       -  master
+      -  travis
 
 env:
     global:
