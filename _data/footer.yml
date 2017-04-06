@@ -2,18 +2,20 @@
   links:
     - name: Home
       link: /
-    - name: Portfolio
-      link: /portfolio/
-    - name: Blog
-      link: /blog/
-    - name: About
+    - name: Events
+      link: /events/
+    - name: Archive
+      link: /archive/
+    - name: Help
+      link: /help/ 
+    - name: About Us
       link: /about/
-    - name: Contact
+    - name: Contact Us
       link: /contact/
 - title: Social
   links:
     - name: Facebook
-      link:
+      link: https://www.facebook.com/kossiitkgp/
       social_icon: Facebook
       new_window: true
     - name: Twitter
