@@ -1,0 +1,11 @@
+links:
+- name: Events
+  link: /events/
+- name: Archive
+  link: /archive/
+- name: About Us
+  link: /about/
+- name: Contact Us
+  link: /contact/
+- name: Help
+  link: /help/
